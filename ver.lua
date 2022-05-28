@@ -1,0 +1,2 @@
+Version = '5.7'
+Announcement = 'DONT EXECUTE! THIS IS OUTDATED IT COULD GET YOU BANNED'
